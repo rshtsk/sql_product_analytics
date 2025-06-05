@@ -51,7 +51,8 @@ FULL JOIN (
     ) t2
     GROUP BY date
 ) as couriers_t
-ON users_t.date = couriers_t.date ```
+ON users_t.date = couriers_t.date
+```
 
 
 ## Визуализации
