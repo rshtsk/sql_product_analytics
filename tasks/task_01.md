@@ -51,4 +51,23 @@ FULL JOIN (
     ) t2
     GROUP BY date
 ) as couriers_t
-ON users_t.date = couriers_t.date
+ON users_t.date = couriers_t.date ```
+
+
+## Визуализации
+
+Динамика новых пользователей и курьеров:
+<img src="/sql_product_analytics/img/task_1_viz_1.png" width="700">
+
+Рост общего числа пользователей и курьеров:
+<img src="/sql_product_analytics/img/task_1_viz_2.png" width="700">
+
+## Выводы
+
+- Количество новых пользователей растёт быстрее, чем курьеров.
+- Приток курьеров стабилен
+- Кумулятивные графики показывают, что общее число пользователей заметно превышает число курьеров.
+
+
+
+
