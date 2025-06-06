@@ -97,7 +97,7 @@ FROM (
 
 **Кампания 1:**
 
-![Кампания 1](../img/market_task_6_viz_1.pngg)
+![Кампания 1](../img/market_task_6_viz_1.png)
 
 **Кампания 2:**
 
