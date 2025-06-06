@@ -91,8 +91,7 @@ ORDER BY date
 
 ## Визуализация
 
-![ARPU, ARPPU, AOV](../img/economika_task_2_viz_1.png
-
+![ARPU, ARPPU, AOV](../img/economika_task_2_viz_1.png)
 
 ## Выводы
 
