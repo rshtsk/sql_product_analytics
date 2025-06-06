@@ -97,11 +97,11 @@ FROM (
 
 **Кампания 1:**
 
-![Кампания 1](../img/economika_task_1_viz_1.png)
+![Кампания 1](../img/market_task_6_viz_1.pngg)
 
 **Кампания 2:**
 
-![Кампания 2](../img/economika_task_1_viz_2.png)
+![Кампания 2](../img/market_task_6_viz_2.png)
 
 
 ## Выводы
